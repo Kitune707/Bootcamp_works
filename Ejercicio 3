@@ -1,0 +1,17 @@
+//Primera parte
+func main{
+  int suma (2, 54, 3);
+  return = 2 + 54 + 3
+  
+}
+
+//Segunda parte
+class coche{
+  # puertascoche = "cp";
+}
+
+int suma (cp, 1){
+  miCoche.suma(cp, 1);
+  return = cp + 1;
+  Println (return);
+}
